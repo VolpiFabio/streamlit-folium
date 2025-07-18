@@ -1,6 +1,6 @@
-# 🌎 Mapa Interativo - Americana/SP
+# 🌎 Mapa Interativo
 
-Projeto construído com Streamlit + Folium para visualização interativa de marcadores, camadas WMS e mapas base sobre a região de Americana/SP. O app está estruturado em módulos para facilitar organização e manutenção.
+Projeto construído com Streamlit + Folium para visualização interativa de marcadores, camadas WMS e mapas base. O app está estruturado em módulos para facilitar organização e manutenção.
 
 ## 🚀 Funcionalidades
 
